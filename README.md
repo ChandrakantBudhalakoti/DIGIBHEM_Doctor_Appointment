@@ -69,7 +69,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
 4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 5. Create a new database naming `edoc`.
 6. Import the provided SQL file. The file is known as DATABASE edoc.sql located inside the source code root folder.
-7. Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc-echanneling-main/.
+7. Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/DIGIBHEM_Doctor_Appointment/.
 
 
 ## Screenshots
